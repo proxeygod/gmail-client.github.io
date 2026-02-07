@@ -9,7 +9,7 @@ This project leverages a **React frontend**, a **Node.js backend**, and a **MySQ
 
 | Signin Page | Inbox Page |
 |--------------------|------------------|
-| ![Life Calendar](https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/Gmail%20Client/signin%20page.png) | ![Add new Counter](https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/Gmail%20Client/inbox.png) |
+| ![Life Calendar](https://filedn.eu/lKBQ3k74oxYj0kgKuxh2wfS/Gmail%20Client/signin%20page.png) | ![Add new Counter](https://filedn.eu/lKBQ3k74oxYj0kgKuxh2wfS/Gmail%20Client/inbox.png) |
 
 ---
 
